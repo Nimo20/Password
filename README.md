@@ -27,4 +27,4 @@ SO THAT I can create a strong password that provides greater security
 The following image shows the web application's appearance and functionality:
 ![image](Assets/image/03-javascript-homework-demo.png)
 
-Deployed Link: 
+Deployed Link: https://nimo20.github.io/Password/
